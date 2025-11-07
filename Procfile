@@ -1,1 +1,1 @@
-worker: python otp.py
+worker: python main.py
